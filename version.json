@@ -1,1 +1,7 @@
-version.json
+{
+  "versionCode": 90,
+  "versionName": "2.78",
+  "apkUrl": "https://github.com/5aber5/saber.codevault.pro/releases/download/v2.78/CodeVault.apk",
+  "notes": "تحديثات GitHub والرسائل + زر البحث عن التحديثات في الإعدادات.",
+  "mandatory": false
+}
